@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "openai": "^3.3.0"
+  },
+  "dependencies": {
+    "puppeteer-core": "^21.0.3"
+  }
+}
